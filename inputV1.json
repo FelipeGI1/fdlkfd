@@ -1,7 +1,7 @@
 [
     {
         "Store": 1,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 3.0,
         "Temperature": 32.73,
         "Fuel_Price": 3.239,
@@ -12,7 +12,7 @@
     },
     {
         "Store": 2,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 5.0,
         "Temperature": 28.45,
         "Fuel_Price": 3.189,
@@ -23,7 +23,7 @@
     },
     {
         "Store": 3,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 7.0,
         "Temperature": 35.12,
         "Fuel_Price": 3.259,
@@ -34,7 +34,7 @@
     },
     {
         "Store": 4,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 2.0,
         "Temperature": 30.67,
         "Fuel_Price": 3.199,
@@ -45,7 +45,7 @@
     },
     {
         "Store": 5,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 4.0,
         "Temperature": 33.89,
         "Fuel_Price": 3.279,
@@ -56,7 +56,7 @@
     },
     {
         "Store": 6,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 6.0,
         "Temperature": 29.34,
         "Fuel_Price": 3.219,
@@ -67,7 +67,7 @@
     },
     {
         "Store": 7,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 8.0,
         "Temperature": 34.56,
         "Fuel_Price": 3.299,
@@ -78,7 +78,7 @@
     },
     {
         "Store": 8,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 1.0,
         "Temperature": 31.23,
         "Fuel_Price": 3.179,
@@ -89,7 +89,7 @@
     },
     {
         "Store": 9,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 9.0,
         "Temperature": 36.78,
         "Fuel_Price": 3.339,
@@ -100,7 +100,7 @@
     },
     {
         "Store": 10,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 3.0,
         "Temperature": 27.89,
         "Fuel_Price": 3.159,
@@ -111,7 +111,7 @@
     },
     {
         "Store": 11,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 5.0,
         "Temperature": 32.45,
         "Fuel_Price": 3.249,
@@ -122,7 +122,7 @@
     },
     {
         "Store": 12,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 7.0,
         "Temperature": 29.67,
         "Fuel_Price": 3.209,
@@ -133,7 +133,7 @@
     },
     {
         "Store": 13,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 2.0,
         "Temperature": 35.34,
         "Fuel_Price": 3.269,
@@ -144,7 +144,7 @@
     },
     {
         "Store": 14,
-        "isHoliday": 1,
+        "IsHoliday": 1,
         "Dept": 4.0,
         "Temperature": 30.12,
         "Fuel_Price": 3.189,
@@ -155,7 +155,7 @@
     },
     {
         "Store": 15,
-        "isHoliday": 0,
+        "IsHoliday": 0,
         "Dept": 6.0,
         "Temperature": 33.56,
         "Fuel_Price": 3.239,
@@ -166,7 +166,7 @@
     },
     {   
         "Store": 1, 
-        "isHoliday": 0, 
+        "IsHoliday": 0, 
         "Dept": 3.0, 
         "Temperature": 32.73, 
         "Fuel_Price": 3.239, 
