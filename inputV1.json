@@ -1,0 +1,178 @@
+[
+    {
+        "Store": 1,
+        "isHoliday": 0,
+        "Dept": 3.0,
+        "Temperature": 32.73,
+        "Fuel_Price": 3.239,
+        "CPI": 211.0963582,
+        "Unemployment": 8.106,
+        "Type": 3,
+        "Size": 151315
+    },
+    {
+        "Store": 2,
+        "isHoliday": 1,
+        "Dept": 5.0,
+        "Temperature": 28.45,
+        "Fuel_Price": 3.189,
+        "CPI": 212.3456789,
+        "Unemployment": 7.856,
+        "Type": 2,
+        "Size": 202307
+    },
+    {
+        "Store": 3,
+        "isHoliday": 0,
+        "Dept": 7.0,
+        "Temperature": 35.12,
+        "Fuel_Price": 3.259,
+        "CPI": 210.9876543,
+        "Unemployment": 8.256,
+        "Type": 1,
+        "Size": 105678
+    },
+    {
+        "Store": 4,
+        "isHoliday": 1,
+        "Dept": 2.0,
+        "Temperature": 30.67,
+        "Fuel_Price": 3.199,
+        "CPI": 213.4567890,
+        "Unemployment": 7.906,
+        "Type": 3,
+        "Size": 175432
+    },
+    {
+        "Store": 5,
+        "isHoliday": 0,
+        "Dept": 4.0,
+        "Temperature": 33.89,
+        "Fuel_Price": 3.279,
+        "CPI": 211.2345678,
+        "Unemployment": 8.056,
+        "Type": 2,
+        "Size": 198765
+    },
+    {
+        "Store": 6,
+        "isHoliday": 1,
+        "Dept": 6.0,
+        "Temperature": 29.34,
+        "Fuel_Price": 3.219,
+        "CPI": 212.5678901,
+        "Unemployment": 7.756,
+        "Type": 1,
+        "Size": 123456
+    },
+    {
+        "Store": 7,
+        "isHoliday": 0,
+        "Dept": 8.0,
+        "Temperature": 34.56,
+        "Fuel_Price": 3.299,
+        "CPI": 210.8765432,
+        "Unemployment": 8.206,
+        "Type": 3,
+        "Size": 167890
+    },
+    {
+        "Store": 8,
+        "isHoliday": 1,
+        "Dept": 1.0,
+        "Temperature": 31.23,
+        "Fuel_Price": 3.179,
+        "CPI": 213.6789012,
+        "Unemployment": 7.606,
+        "Type": 2,
+        "Size": 189012
+    },
+    {
+        "Store": 9,
+        "isHoliday": 0,
+        "Dept": 9.0,
+        "Temperature": 36.78,
+        "Fuel_Price": 3.339,
+        "CPI": 211.3456789,
+        "Unemployment": 8.306,
+        "Type": 1,
+        "Size": 134567
+    },
+    {
+        "Store": 10,
+        "isHoliday": 1,
+        "Dept": 3.0,
+        "Temperature": 27.89,
+        "Fuel_Price": 3.159,
+        "CPI": 212.7890123,
+        "Unemployment": 7.456,
+        "Type": 3,
+        "Size": 176543
+    },
+    {
+        "Store": 11,
+        "isHoliday": 0,
+        "Dept": 5.0,
+        "Temperature": 32.45,
+        "Fuel_Price": 3.249,
+        "CPI": 210.4567890,
+        "Unemployment": 8.156,
+        "Type": 2,
+        "Size": 198765
+    },
+    {
+        "Store": 12,
+        "isHoliday": 1,
+        "Dept": 7.0,
+        "Temperature": 29.67,
+        "Fuel_Price": 3.209,
+        "CPI": 213.8901234,
+        "Unemployment": 7.556,
+        "Type": 1,
+        "Size": 145678
+    },
+    {
+        "Store": 13,
+        "isHoliday": 0,
+        "Dept": 2.0,
+        "Temperature": 35.34,
+        "Fuel_Price": 3.269,
+        "CPI": 211.5678901,
+        "Unemployment": 8.056,
+        "Type": 3,
+        "Size": 167890
+    },
+    {
+        "Store": 14,
+        "isHoliday": 1,
+        "Dept": 4.0,
+        "Temperature": 30.12,
+        "Fuel_Price": 3.189,
+        "CPI": 212.9012345,
+        "Unemployment": 7.356,
+        "Type": 2,
+        "Size": 189012
+    },
+    {
+        "Store": 15,
+        "isHoliday": 0,
+        "Dept": 6.0,
+        "Temperature": 33.56,
+        "Fuel_Price": 3.239,
+        "CPI": 210.6789012,
+        "Unemployment": 8.206,
+        "Type": 1,
+        "Size": 123456
+    },
+    {   
+        "Store": 1, 
+        "isHoliday": 0, 
+        "Dept": 3.0, 
+        "Temperature": 32.73, 
+        "Fuel_Price": 3.239, 
+        "CPI": 211.0963582, 
+        "Unemployment": 8.106, 
+        "Type": 3, 
+        "Size": 151315 
+    }
+]
